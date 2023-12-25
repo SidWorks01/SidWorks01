@@ -16,13 +16,14 @@
 <br />
 <br />
 
-Hi there, I'm **Siddhant Gupta**, a **Kaggle Competitions Enthusiast**  and a **Mechanical Engineering Student ** 🚀 from IIT Roorkee, India. I'm enthusiastic and passionate about AI and Currently, I'm working on Ranking up in Kaggle And Getting hands-on knowledge in Software Engineering and Establishing Innovative Automations. 
+Hi there, I'm **Siddhant Gupta**, a **Kaggle Competitions Enthusiast**  and a **Mechanical Engineering Student** 🚀 from IIT Roorkee, India. I'm enthusiastic and passionate about AI and Currently, I'm working on Ranking up in Kaggle And Getting hands-on knowledge in Software Engineering and Establishing Innovative Automations. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🤔 My interests are Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 🤔 My interests are Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc.
+- 😀 My Dream is to create efficient and arcadian automation solutions.
 - 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering from **IIT Roorkee**;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via writetosiddhant@gmail.com to reach me.
