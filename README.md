@@ -28,7 +28,7 @@
 - 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering from **IIT Roorkee**;
 - 💬 Connect with me about anything, I would be happy to collaborate;
 - 📫 Please email via writetosiddhant@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1kOdpEL0IEAuURkP_t041t_SVLgH0jXsh/view?usp=drive_link) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1kOdpEL0IEAuURkP_t041t_SVLgH0jXsh/view?usp=drive_link)(To be Updated) to get more info.
 
 ### I am familiar with
 [<img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
